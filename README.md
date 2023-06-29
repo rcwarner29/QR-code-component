@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/rcwarner29/QR-code-component)
+- Live Site URL: [Add live site URL here](https://rcwarner29.github.io/QR-code-component/)
 
 ## My Process
 
@@ -45,5 +45,5 @@ I'm looking to continue getting more practice with CSS and Flexbox as I feel oth
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Ray Warner](https://github.com/rcwarner29/)
+- Frontend Mentor - [@rcwarner29](https://www.frontendmentor.io/profile/rcwarner29)
